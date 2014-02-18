@@ -12,3 +12,12 @@ Each valid and open user in the capture range will have two .txt files.
 “buildFollower.pl” will get ids from data.txt (the one of the output from buildTweets.pl ), and output each user id with their follower on the same line in follower.txt.
 “getRelation.pl”
 “getRelation.pl” will go through the follower.txt and find out the follower relation of all the user who has tweeted the topic. The output is relation.txt.
+
+1.buildTweets.pl:	run with argument, example: perl buildTweets.pl 42700000 1
+(it is common to get error handle information in the terminal, on purpose)
+2.buildFollower.pl:	run directly
+3.getRelation.pl:	run directly
+4.data.txt:	example of results
+5.notes.txt:	dictionary for twitter
+6.relation.txt:		example of results
+7.followers.txt:	example of results
