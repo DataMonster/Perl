@@ -1,0 +1,45 @@
+#!/usr/bin/perl
+use warnings;
+use BankAccount;
+use Bank;
+
+print "\nTest1 : test BankAccount class\n";
+print "Construct new object: name is 'alex', accountNo is '10001':(balance is default to 0)\n";
+$object = new BankAccount("alex",10001);
+print "  Get the new user's name: ";
+print $object->getName(), "and balance: ", $object->getBalance(),"\n";
+print "  Add 100 dollars to alex's account, then withdraw 10 dollars, the balance is ";
+$object->deposit(100);
+$object->withdraw(10);
+print $object->getBalance(),"\n";
+print "\n  Print all details of alex's account: ";
+$object->printAccountDetails();
+print "\n";
+
+print "\nTest2 : test Bank class\n";
+print "Construct new Bank object, name is 'citi', new account No. is 1001.\n";
+$a = Bank->new("citi",1001);
+print "Insert three account into this object with name Alpha, Beta, Gama\n";
+$a->newAccount("Alpha");
+$a->newAccount("Beta");
+$a->newAccount("Gama");
+print "List all the details of these three accounts:\n";
+$a->listAccounts();
+print "\nSearch 1002 user's Name and Balance: ";
+my $result = $a->{accountBase}{1002};
+print " ",$result->getName();
+print ",  ", $a->getBalance(1002);
+print "\nAlpha deposit 100, Beta deposit 100 then withdraw 30 and Gama deposit 10.\n"; 
+$a->deposit(1001,100);
+$a->deposit(1002,100);
+$a->withdraw(1002,30);
+$a->deposit(1003,10);
+print "List all the details of these three accounts (updated):\n";
+$a->listAccounts();
+print "\n";
+print "According to the current interest (1% per month), after three months, the account details are:\n";
+$a->applyInterests();
+$a->applyInterests();
+$a->applyInterests();
+$a->listAccounts();
+print "\n";
