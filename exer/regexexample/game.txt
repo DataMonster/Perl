@@ -1,0 +1,77 @@
+Carlsen,M (2776) - Aronian,L (2750) [D45]
+Corus A Wijk aan Zee NED (4), 20.01.2009
+[Notes by GM Sergey Shipov, tanslation by Steve Giddins]
+1.d4. At first, the live transmission showed the moves 1.e4 e6. I even started writing erudite comments on this choice, and then 
+suddenly the mirage disappeared... 1...d5 2.c4 c6. The Slav Defence. 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 The Anti-Meran, 
+White leaves the bishop on f1, not wanting to give up a tempo. If you are interested in the Meran itself, 6.Bd3 dxc4 7.Bxc4 b5, 
+I can recommend that you study the games of the two world championship matches, Kramnik-Topalov, Elista 2006, and Kramnik-Anand, Bonn 2008. 
+6...Bd6 7.b3. The c4 pawn receives eternal life from its colleague on the b-file. 7...0â€“0 8.Be2. 
+Now the bishop has no need to stay on its original square. In the event of dxc4, White is always ready to recapture bxc4. 8...b6. A trendy choice. 
+In former times, 8...e5 was popular, as also was 8...Qe7. 9.Bb2 Qe7 10.0â€“0 Bb7. Both sides have completed their development, and now they must resolve a difficult question: determining the best central squares for the rooks. 11.Rfe1. White shapes up for the advance e3-e4. 
+However, more often than not, this leads only to rapid exchanges and equality. 11...Rfe8. Black also prepares for a battle on the e-file.
+12.Rad1 Rad8. A typical picture. In the previous century, Black would have put the rook on c8, opposite the white queen, without even thinking. 
+However, time and practice has shown that Black does not get much from this vis-a-vis, and quite often loses the battle for the centre. 
+Consequently, in our day, Black tends to place the rooks on the most central files. 13.Bf1. Another trendy idea. 
+White once again pretends that he is planning to advance e3-e4, but in reality, he is awaiting some activity from Black, hoping to turn this in his favour. Meanwhile, the bishop can later come to g2. 13...Bb4. An interesting novelty. On the one hand, Black prevents e3-e4, and on the other, 
+he refrains from any committal activity. After 13...Bb8 White can carry out his hidden threat: 14.e4 dxe4 15.Nxe4 Nxe4 16.Qxe4 Nf6 17.Qh4 
+the point being that now Black does not have the advance 17...c5 because of 18.d5; Instead, the game Dimitrov-Filev, Bulgaria 2006, 
+continued 17...Nd7 18.Qh3 Nf8 19.Qh5 Qf6 20.Rd2 Bf4 21.Rde2 Qh6 22.Qxh6 Bxh6 23.g3 g6 24.Bg2 Bg7 25.Ne5 and White retained his opening initiative. 
+The consequences of 13...c5 are of principal importance. I consider the best example to be the game Sasikiran-Brkic, Sibenik 2008: 14.cxd5 exd5 15.g3 Rc8
+16.Qb1 cxd4 17.Nxd4 Bb4 18.Rc1 Ne5 19.Bh3?! Rcd8 20.Red1 Bc5 21.Bg2 g6 22.h3 h5 23.Rd2 Bb4 24.Rdc2 Nd3 25.Rd1 Nxb2 26.Qxb2 Rc8 27.Ncb5 a6 28.a3 Bc5 29.b4 axb5 30.bxc5 bxc5 31.Nxb5 Rb8 32.a4 Bc6 33.Rdc1 c4 34.Rxc4 Bxb5 35.Rb4 and White won a pawn, and soon, the game.
+14.a3. Judging by the speed of this move, Magnus has also analysed the bishop jump to b4. The text move is not a pawn sacrifice, 
+of course, but an exchanging combination. 14...Bxa3 15.Bxa3 Qxa3. Now the white rook can appear on a7. 16.cxd5. 
+An interesting interpolation. Without doubt, we are seeing some of the fruits of Carlsen's home analysis. In the event of 16.Ra1 Black maintains the balance by 16...Qd6 17.Rxa7 Qb8!? 16...exd5. A difficult choice. After 16...cxd5 17.Ra1 Qd6 18.Nb5 Qb8 as well as the capture with the rook, there is also the impudent 19.Nxa7 with advantage to White. 17.Ra1. It is time to regain the pawn. 17...Qd6 18.Rxa7 Qb8. The bishop is defended, and the queen's flank secured. 19.Rea1. The rook remains on a7. One cannot say that it is a massive inconvenience for Black, but it cannot be driven away, for the moment. 19...c5. 
+A sharp move, but to my mind, a bit too sharp! The square b5 is given away, and White obtains good prospects to attack the queenside.
+
+20.b4! A very nice break, in Carlsen's style. He is famous for his elegant positional pawn sacrifices, which he manages to bring off even against the very strongest opponents. Taking on b4 is catastrophic for the black pawn structure, which in one move is transformed from a solid monolith into a mass of fragments. Incidentally, White could also increase the pressure by 20.Bb5 Re7 21.Qb2 and the b3-b4 break can come later.
+20...cxd4. A sad move to have to play, but the alternatives also have their drawbacks. On 20...c4 I recommend 21.Nd2 with the idea of maintaining the superb blockading knight on c3. The bishop on f1 can then come into play. 21.Nxd4. White's advantage is clear. We have before us a classic IQP position, 
+with the extra point that dark-squared bishops have been exchanged, a nuance that favours White. The bishop on b7 is very passive, 
+whilst that on f1 has great prospects. 21...Rc8. One can hardly regard the pressure against the c3 knight as real counterplay. 
+22.Qb3 For the time being, the pawn on d5 is strongly defended...but only for the time being... 22...Ne5. The knight on c4 looks beautiful, 
+but what will it actually attack from there? 23.h3. Meeting the threat of a knight to g4. At the moment, Magnus is playing very quickly. 
+It is obvious that his home preparation has run out by now, but on the other hand, the position reached is strategically quite simple. 
+White has a clear advantage, and also has the choice of a large number of obvious strengthening moves. Levon has again sunk into thought. 
+He needs to find a way to stir up complications, so as to divert his opponent from his positional plans. But how? 23...g6. Making luft, 
+and taking control of the square f5, which the white minor pieces may be able to exploit. After 23...Nc4 the black knight is little more than a harmless balloon, which causes White no problems at all: 24.Bd3! Exchanging the blockading knight by 23...Nc6 only results in its being replaced after 24.Nxc6 Bxc6 25.Ne2!
+24.Be2. Correct. There is no reason to hurry. In such positions, one must build up the pressure slowly, and methodically break down the enemy's defences. 
+In other words, play in the style of Karpov and Kramnik, the greatest specialists in the art of positional play in the modern game. 
+Who knows, in 20 years' time, the new commentators (I fear I will no longer be around) will write "in the style of Carsen"! 24...Re7?! 25.R7a2. 
+The rook has done its job, driving the black queen into a passive position for the foreseeable future. Now it is time to regroup and take up position in the centre. 25...Nc4. Aronian cannot resist any longer, and directs his "balloon" to the most obvious square. The knight cannot be driven away, 
+and Black would welcome its exchange for an active white piece. I think White should work round the knight. Such "ignoring" of a strongly-placed enemy piece is a difficult thing, of the sort practiced only by players of the highest level. I remember how wonderully Bent Larsen used to do this (may God bless him). White should concentrate on the d5 pawn. Soon the time will come when a combination is possible, at the end of which the knight on c4 will drop off. 
+The thread connecting the balloon to the nail may be made of steel, but if the nail itself comes out of the wall... 25...Ne4 was also tempting, 
+after which can choose between 26.Rc1 (and 26.Ncb5 ). 26.Rd1. Correct. Levon thinks and thinks, and the difference in the clock times at this point is considerable. Yes, the position is difficult, but that is no reason to make it worse by drifting into extreme time-trouble. 
+I suggest the move 26...Qe5. The white position also contains one or two slightly loose nails, for example, the pawn on e3.
+
+26...Nxe3. Wow! To tell the truth, I was only joking when I said about the pawn on e3 being weak. But Levon took me seriously, 
+and has taken his sledgehammer to the walls.. 27.fxe3 Rxe3. Black cannot possibly have full compensation. 
+The knight on c3 is weak, of course, but White has adequate defences. Black's biggest problem is the extreme passivity of his bishop on b7. 
+Piece sacrifices only work when the remaining pieces enjoy great activity and effectivness. The number of pawns does not have such great significance in the middlegame, and Black risks not surviving to an endgame. And indeed, even in an endgame, if the construction Bb7 + Pd5 remains, 
+and the white pawn on b4 survives, the outcome would not be in doubt. 28.Rd3. A natural reaction, but possibly not the most precise. 
+Evidently, Magnus instinctively strives to exchange as many pieces as possible, so as to have fewer variations to calculate in this fluid situation. 
+I am analysing the position quite deeply, and the main question is: can White hold onto the b4 pawn? Losing it would significantly complicate the win. 
+It may be that a stronger line was 28.Bd3! Qg3 29.Nce2 Qg5 30.Qb2 Rxh3 31.Qd2! and White consolidates, retaining a large positional advantage.
+28...Qg3. The most natural move, increasing the pressure. In the variation 28...Rxd3 29.Bxd3 Qg3 30.Nf3 (30.Nd1 Rc1!) 30...d4! 31.Ne2 Qd6 32.Rc2 Rxc2 33.Bxc2 Nd5! Black wins the b4-pawn, but this still does not guarantee him salvation: 34.Be4 f5 35.Bd3 Qxb4 36.Qa2! and White wins back the d4-pawn, 
+retaining a strong initiative against the weakened black king. 29.Nd1! The best defence. The entry of the black heavy pieces to White's first rank is an unavoidable, but not deadly thing. 29...Qe1+ 30.Bf1. 30.Kh2 Qg3+ makes no sense. 30...Rxd3 31.Qxd3 Qxb4. Thus, Levon has achieved his aim. 
+The potentially strongest white pawn disappears and Black has three pawns for his piece. But he still does not have full compensation. 
+The reason is standing on b7. 32.Qd2. Carlsen is ready to simplify the position and, without the slightest risk, spend 100 moves realising his extra piece. In principle, 32.Ra7 was more active and more unpleasant for Black. 32...Qd6. The prospect described above does not appeal to Aronian, 
+and he strives to retain some tactical chances â€“ a perfectly understandable practical decision.
+33.Nf3. Changing the guard on d4. 33...Ne4 34.Qd4. The first hint of a death sentence for the pawn on b6. More will follow. 
+34...Rc1 Aronian is now is serious time-trouble, with only three minutes left. In such positions, it is easier to attack, than to defend, 
+trying to anticipate subtle nuances for the opponent. 35.Rb2. An inaccuracy. Magnus seems to be playing on his opponent's flag. 
+Of course, modern electronic clocks do have such things, but you know what I mean...More accurate was 35.Ne3! so as to answer 35...Ng3 with 36.Rc2 Rb1 37.Rb2 exchanging the active black rook. 35...Qc5. One cannot criticise a player who is having to blitz his moves. 
+There were serious chances to save the game after 35...Ng3!! 36.Ne3 36...Nxf1 37.Nxf1 Ba6 38.N3d2 Qc5! with excellent counterplay. 
+So it seemed to me, but the heartless computer says that White can now just take the pawn: 36.Rxb6 Qc7 37.Rb2. 36.Ne3. 
+The knight cannot remain en prise for ever, especially as it would now be lost if it stays put! 36...Ba6. Black's pressure has reached its apogee, but now White has a simple exchanging combination, which retains his extra piece. 37.Rxb6 Qxd4 38.Nxd4 Bxf1 39.Nxf1. 
+Black has lost a pawn, but forced some exchanges. 39...Nd2 40.Rf6 Rd1
+
+The last move of the time-control. Now one can relax, drink a cup of hot coffee, and analyse the position calmly. 
+With your permission, I will start with the coffee... 41.Ne2. I do not believe that Black can save this position. White's two pawns are precious capital, which Black cannot exchange off. 41...d4 42.Neg3. Obviously not 42.Nxd4?? Nxf1 43.Rxf1 Rxd4; whilst 42.g4 makes it easier for Black to exchange pawns. 42...h5. Even with limited forces, the Armenian finds a way to create some pressure. The threat is h5-h4. The passed pawn cannot advance any further: 42...d3? 43.Rf2 Nc4 44.Ne4; Nor is 42...Kg7 43.Rb6 d3 44.Rd6 any better. 43.Rf2. The simplest defence. 
+After driving off the knight, White will force exchanges and then attack the d4 pawn. In about 30 moves' time, he will win... 43...Nb1 After 43...Nc4 44.Rc2 White makes progress by 44...Ne5 45.Rd2! 44.Rb2 f5. Continuing in the same active style. 45.Nh1. Very ornate! Simpler and stronger was 45.Kf2!!. 45...Nc3. Understanding that nothing great can be expected from the knight on b1, Levon sets a new trap. He plans to offer the d-pawn... 46.Rd2. As we will see... 46...Ra1. Told you so! Aronian's hesitations over whether to exchange or not took some time. But the assessment of the position remains the same. 
+In my opinion, White is winning. The simplest way to liquidate Black's activity is by the manoeuvre Nh1â€“g3-e2, and the d4 pawn will soon fall. 
+The main problem with this manoeuvre is psychological. Magnus has only just moved the knight from g3 to h1, now he has to find the strength to return it to its former post, never an easy thing for a human.
+47.h4. Carlsen chooses another way. I understand his wanting to fix the enemy pawns â€“ play a pawn to g3 and a knight to f4. But will he be able to? 
+There was a guaranteed win by 47.Nhg3 h4 48.Ne2 since even the diabolical trap 48...Ne4! is refuted by 49.Rd3! followed by Nxd4.(But not 49.Rxd4? Re1!). 47...Kg7 48.Nhg3. Heading for e2. 48...Ra4. Not only defending d4, but also X-raying the h4 pawn. 
+The more I look, the less I like the move 47.h4. 49.Nh2. Correct. After 49.Ne2 Black realises his idea: 49...Nxe2+ 50.Rxe2 d3 51.Rd2 Rxh4 and White is not winning. 49...Ne4 50.Rd3 Nxg3 51.Rxg3 d3 52.Rxd3 Rxh4. A great achievement for Black! 53.Rd7+. Carlsen plays on, but now his winning chances are minimal. 53...Kh6 54.Nf3 Re4 55.Rd6 Kg7 56.Kh2 Kh6. 56...Rg4? Naturally he loses after 57.Ne5 Rg5 58.g3! and the rook is trapped. 57.Nd4 Rh4+ 58.Kg3 Rg4+ 59.Kh3 Kg7. There are still several traps into which Black can fall, hence the game continues. Here is one of them: 59...Kh7 60.Ne6 Kh6 61.Rd8 Kh7 62.Rd4 and Black is probably lost. 60.g3. Why the hurry, Magnus?? Why place the pawn on a square where Black can exchange it by f5-f4? 60...Kf7 61.Nf3 Ke7 62.Ra6 f4
+
+The end. Black eliminates the last white pawn. 63.gxf4 Rxf4 64.Ne5 Re4 65.Nxg6+. 
+A fantastic escape by Aronian, and a tragic missed opportunity for Carlsen. Draw.
