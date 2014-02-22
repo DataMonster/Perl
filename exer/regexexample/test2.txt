@@ -1,0 +1,8 @@
+This is the test for 2 problem of hw2, coms 3101-2 perl programming.
+We have some right phone numbers and wrong phone numbers with different format.
+1233356789 123-456-7893 
+(123)-456-7893 (123) 456 7829 917 333 4444
+1234567890123
+123 1234-123
+347-956-5002
+End
